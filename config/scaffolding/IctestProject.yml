@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IctestProject
+  gitServerName: ICAccountTest1228
+  gitUrl: https://github.com/MeghaRaj69/IctestProject
+  gitUsername: MeghaRaj69
+  gitBranch: main
